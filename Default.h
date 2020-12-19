@@ -1,10 +1,10 @@
 /*********************************************************************
 	Rhapsody	: 9.0 
-	Login		: raxma
+	Login		: Polina
 	Component	: DefaultComponent 
 	Configuration 	: DefaultConfig
 	Model Element	: Default
-//!	Generated Date	: Mon, 1, Jun 2020  
+//!	Generated Date	: Mon, 14, Dec 2020  
 	File Path	: DefaultComponent\DefaultConfig\Default.h
 *********************************************************************/
 
